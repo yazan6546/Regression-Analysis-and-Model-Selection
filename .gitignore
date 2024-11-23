@@ -22,4 +22,6 @@ rad.json
 TestResults.xml
 .conda
 .venv
-data/
+data/cars.csv
+public_key.asc
+private_key.asc
