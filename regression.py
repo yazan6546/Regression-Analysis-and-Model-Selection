@@ -15,9 +15,7 @@ def linear_regression_predict(X, w):
 
 
 def gradient_descent(X_train, y, learning_rate=0.01, num_iterations=1000):
-    # Using Gradient Descent
-    learning_rate = 0.01
-    num_iterations = 1000
+   
     errors = []
     W = np.random.randn(X_train.shape[1],) * 0.01  # Initialize W randomly
     b = np.random.randn(1) * 0.01  # Initialize b randomly
