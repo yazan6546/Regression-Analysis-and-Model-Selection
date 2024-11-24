@@ -5,7 +5,7 @@ def linear_regression_fit(X, y):
     X_b = np.c_[np.ones((X.shape[0], 1)), X]  # Add a column of ones for intercept
 
     # Calculate the weights using the Normal Equation: w = (X^T * X)^(-1) * X^T * y
-    w = np.linalg.inv(X_b.T.dot(X_b)).dot(X_b.T).dot(y)
+    w = np.linalg.solve(X_b.T.dot(X_b), X_b.T.dot(y))
 
     return w
 
