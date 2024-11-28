@@ -1,5 +1,4 @@
 # Regression-Analysis-and-Model-Selection
-# Car Price Prediction
 
 This repository contains code and data for comparing various regression models to predict car prices using a dataset from the YallaMotor website. The dataset includes multiple features such as car name, price, engine capacity, cylinder count, horsepower, top speed, number of seats, brand, and country of sale. The goal is to evaluate the effectiveness of different regression techniques in predicting car prices and performance metrics.
 
