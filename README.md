@@ -204,5 +204,11 @@ The following Python libraries are required to run the code:
 - matplotlib
 - IPython
 - Jupyter Notebook
+
+## Contributors 
+
+- [Yazan AbuAloun](https://github.com/yazan6546)
+- [Ahamd Qaimari](https://github.com/ahmadq44)
+
    
 
