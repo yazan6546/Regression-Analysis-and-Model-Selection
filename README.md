@@ -174,12 +174,9 @@ To run the code in this repository, follow these steps:
 
    ```sh
    git clone https://github.com/yazan6546/Regression-Analysis-and-Model-Selection.git
-   cd car-price-prediction
-   ```
-2. **Navigate to its directory**:
-   ```sh
    cd Regression-Analysis-and-Model-Selection
    ```
+   
 2. **Install the required dependencies**:
    ```sh
    pip install -r requirements.txt
