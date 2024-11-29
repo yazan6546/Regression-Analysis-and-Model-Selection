@@ -213,7 +213,7 @@ The following Python libraries are required to run the code:
 
 ## Technical Report
 
-A detailed technical report is available in this repository, providing an in-depth analysis of the data preprocessing steps, model selection, and evaluation metrics. The report includes visualizations and explanations of the results, offering valuable insights into the regression analysis and model selection process. You can check the technical report here.
+A detailed technical report is available in this repository, providing an in-depth analysis of the data preprocessing steps, model selection, and evaluation metrics. The report includes visualizations and explanations of the results, offering valuable insights into the regression analysis and model selection process. You can check the technical report [here](report/technical_report.pdf)..
 
 
 ## Contributors 
