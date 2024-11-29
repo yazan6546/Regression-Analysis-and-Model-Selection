@@ -4,7 +4,6 @@ This repository contains code and data for comparing various regression models t
 
 ## Table of Contents
 
- - [Table of Contents](#table-of-contents)
  - [Introduction](#introduction)
  - [Dataset](#dataset)
  - [Preprocessing](#preprocessing)
@@ -14,7 +13,7 @@ This repository contains code and data for comparing various regression models t
  - [Models](#models)
  - [Results](#results)
  - [Conclusion](#conclusion)
- - [Repository Structure
+ - [Repository Structure]
 (#repository-structure)
  - [Usage](#usage)
  - [Dependencies](#dependencies)
