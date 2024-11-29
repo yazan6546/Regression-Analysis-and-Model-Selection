@@ -13,8 +13,7 @@ This repository contains code and data for comparing various regression models t
  - [Models](#models)
  - [Results](#results)
  - [Conclusion](#conclusion)
- - [Repository Structure]
-(#repository-structure)
+ - [Repository Structure(#repository-structure)
  - [Usage](#usage)
  - [Dependencies](#dependencies)
  - [Technical Report](#technical-report)
