@@ -4,22 +4,22 @@ This repository contains code and data for comparing various regression models t
 
 ## Table of Contents
 
-- [Regression-Analysis-and-Model-Selection](#regression-analysis-and-model-selection)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Dataset](#dataset)
-  - [Preprocessing](#preprocessing)
-    - [Cleaning](#cleaning)
-    - [Encoding](#encoding)
-    - [Scaling](#scaling)
-  - [Models](#models)
-  - [Results](#results)
-  - [Conclusion](#conclusion)
-  - [Repository Structure](#repository-structure)
-  - [Usage](#usage)
-  - [Dependencies](#dependencies)
-  - [Technical Report](#technical-report)
-  - [Contributors](#contributors)
+ - [Table of Contents](#table-of-contents)
+ - [Introduction](#introduction)
+ - [Dataset](#dataset)
+ - [Preprocessing](#preprocessing)
+   - [Cleaning](#cleaning)
+   - [Encoding](#encoding)
+   - [Scaling](#scaling)
+ - [Models](#models)
+ - [Results](#results)
+ - [Conclusion](#conclusion)
+ - [Repository Structure
+(#repository-structure)
+ - [Usage](#usage)
+ - [Dependencies](#dependencies)
+ - [Technical Report](#technical-report)
+ - [Contributors](#contributors)
 
 ## Introduction
 
